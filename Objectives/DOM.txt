@@ -1,0 +1,9 @@
+Choppe les cellules en fonction de moyenne
+
+3 modalités d'usage
+
+-> 30, 200 et (toutes=Le nombre de lignes pleines - 1)
+	\-> Il faudrait qu'il accepte de faire moins de cellules que le max
+
+Fichiers finaux nouveau
+-> 24h stats, 3 x onglets contrôle, 3 x graphs ( les cellules sélectionnées )

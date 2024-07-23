@@ -1,0 +1,23 @@
+1 : TO commence, DOM enchaîne 
+2 : 
+3 : Les deux peuvent supprimer après usage, seul le nouveau fichier importe
+
+Les manips :
+
+1. Les manips lambdas -> Elle extrait, elle le met dans le grand fichier, et voilà
+	-> TO et DOM s'enchaînent complètement
+	-> Ils existent des cas dans lequel un seul des progs est utilisé
+
+
+2. Parfois... 
+
+- timelapse, une manip, différentes zones, ca donnes les datas + 24h + stats
+- Elle poolait tout, car les cellules avaient des situations différentes
+
+-> Il existe maintenant des obstacles locaux 
+-> TO séparement
+-> Dans le fichier, onglet 24h, la position 1, 2, 3... 
+	-> Claire supprime manuellement les positions qui ne l'intéressent 
+	-> Crée des fichiers positions 1,2,3,... 
+-> DOM ne mélange plus les positions et crée des onglets séparés pour chaque position
+-> Pour chaque onglet Data, il faut qu'il trouve les cellules 

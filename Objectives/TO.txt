@@ -1,0 +1,17 @@
+Datas et 24h
+
+-> Sortais tous les datas
+-> Modifiais les 24H
+
+Actuellement
+-> Tous les 24h bout à bout en un et enlevait les lignes de résumé
+-> Faisait les moyennes = 24h stats
+-> Crée un fichier tracks, useless
+
+Nouveau changement
+-> Arrêter de créer 3 fichier, à la place rajouter les DATAS avec les 24h et 24h-stats
+-> Supprimer les tracks
+-> Supprimer les fichiers initiaux
+
+/!\ Vérifier comportement de DOM après changements
+	-> Si DOM utilise 24H stats et onglets datas, tout va bien
